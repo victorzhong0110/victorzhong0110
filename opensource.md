@@ -11,6 +11,7 @@ Merged, reviewable PRs in a **living** eval / harness / agent-runtime codebase. 
 | Kind | Status |
 |---|---|
 | Merged PR in Inspect / lm-eval / EvalScope / OpenCompass | none yet |
+| In flight | [inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) shortens duplicated Usage blocks ([#2253](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2253)); not in the Open Source column until it merges |
 | Listing in [Awesome DSH Plugin](https://github.com/xinglunxu76-star/awesome-dsh-plugin-deepseek-harness-/commit/18fac16c535225e72e187cdbf4d606bea01e6b2e) | one docs-list commit; too small to headline |
 
 Personal tools ([skill-evolution](https://github.com/victorzhong0110/skill-evolution), [dsh-outcome-loop](https://github.com/victorzhong0110/dsh-outcome-loop), [dsh-code-reference](https://github.com/victorzhong0110/dsh-code-reference), [open-legal-aid](https://github.com/victorzhong0110/open-legal-aid), [llm-research-os](https://github.com/victorzhong0110/llm-research-os)) live under **Ideas → MVP** on the profile. They are how I ship loops. They are not community identity.
