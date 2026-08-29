@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>Victor Zhong</strong>
+  <p><strong>I'm Vic. Ciallo～(∠・ω&lt;)⌒★</strong></p>
   <p>Agent evaluation · harnesses · research protocols</p>
   <p>
     <code>Born in 2005 · Zhejiang, China.</code>
