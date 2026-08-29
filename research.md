@@ -31,15 +31,7 @@ A model-agnostic, backend-agnostic research OS: express a problem, compose block
 
 This is the long-horizon original work. It is not a 2026 autumn-recruit resume bullet until a worker actually runs a bounded experiment with an event log.
 
-## 3. Chaos maps — constructions, proofs, self-attack
-
-Independent work on multi-valued / coupled chaotic maps (nD-MVC / CnD-MVC line): constructions, proofs, finite-precision notes.
-
-**Working standard.** If I can mount an equal-cost attack on my own scheme, the claim is downgraded in public, not patched in the abstract. That is the same honesty rule as da-verify’s dispute log.
-
-**Status.** In progress. Not a publication. Not listed as “papers” on the profile until there is a preprint with a stable claim.
-
-## 4. Adjacent measurement work (not headline)
+## 3. Adjacent measurement work (not headline)
 
 - [olist-commerce-analytics](https://github.com/victorzhong0110/olist-commerce-analytics) — SQL metrics → PSM / E-value → A/B design. Rigor-first course-scale study.
 - [open-legal-aid](https://github.com/victorzhong0110/open-legal-aid) — RAG recall@k / MRR / refusal; rerank helps, local-small-model query rewrite does not. 25-item eval set, numbers in-repo.

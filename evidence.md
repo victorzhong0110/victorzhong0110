@@ -4,7 +4,7 @@ This profile is an evidence index, not a highlight reel. If a number cannot be r
 
 ## Rules
 
-1. **Product is the measurement.** A demo without a grader, a null, or a dispute log is a toy.
+1. **Product is the measurement.** A demo without a grader, a null, or a dispute log is a toy. Those stay in Ideas → MVP, not in the Open Source column.
 2. **Nulls are first-class.** C1 self-verification moving accuracy by 0.0% is a result. Hiding it would be the actual failure.
 3. **Artifacts are named.** Rate-limit collapse, partial-answer override, non-reproducible gold — they stay in the write-up.
 4. **M0 is M0.** `llm-research-os` does not train, does not touch real GPUs, and `ready` on a dry-run is not “the experiment worked.”

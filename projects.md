@@ -52,4 +52,4 @@ M0 protocol kernel. See [research.md](research.md). Do not describe this as a tr
 
 Course homework, early visualization, archived price/wordcloud repos, and Universe City design notes stay unpinned. They are how I learned; they are not how I want to be hired.
 
-If a recruiter only has 90 seconds: **da-verify → dsh-outcome-loop → skill-evolution**.
+If a recruiter only has 90 seconds: **da-verify**. Personal plugins belong under Ideas → MVP on the profile, not in the Open Source column.

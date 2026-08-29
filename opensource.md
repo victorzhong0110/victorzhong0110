@@ -1,38 +1,36 @@
-# 🗺️ Path and targets
+# Path and targets
 
-I do not have an Apache committer line, a ByteDance-maintained flagship, or a 1k-follower profile. Copying that surface without the underlying years of internships and community hours would be costume.
+This file is the shop-window rule for the **Open Source** column, not a list of my own repos.
 
-## What exists (2026-03 → now)
+## What recruiters should see there
 
-GitHub account created 2026-03-22. Public work is concentrated in my own repos:
+Merged, reviewable PRs in a **living** eval / harness / agent-runtime codebase. Star count on a solo repo does not count. A plugin that only I run does not count.
 
-| Artifact | Signal |
+## What exists today (2026-08)
+
+| Kind | Status |
 |---|---|
-| ⚖️ [dsh-outcome-loop](https://github.com/victorzhong0110/dsh-outcome-loop) | Tests, ADRs, threat model, compatibility matrix |
-| ⚙️ [skill-evolution](https://github.com/victorzhong0110/skill-evolution) | Installable CLI, CI, PyPI |
-| 🔎 [dsh-code-reference](https://github.com/victorzhong0110/dsh-code-reference) | Plugin in a real harness + Awesome DSH listing |
-| [llm-research-os](https://github.com/victorzhong0110/llm-research-os) | Public protocols, Apache-2.0, no GPU claims |
-| One merged docs PR | Awesome DSH Plugin list |
+| Merged PR in Inspect / lm-eval / EvalScope / OpenCompass | none yet |
+| Listing in [Awesome DSH Plugin](https://github.com/xinglunxu76-star/awesome-dsh-plugin-deepseek-harness-/commit/18fac16c535225e72e187cdbf4d606bea01e6b2e) | one docs-list commit; too small to headline |
 
-That is a **solo inventor** pattern, not a **community identity** pattern. The next year is for the second pattern — without abandoning the first.
+Personal tools ([skill-evolution](https://github.com/victorzhong0110/skill-evolution), [dsh-outcome-loop](https://github.com/victorzhong0110/dsh-outcome-loop), [dsh-code-reference](https://github.com/victorzhong0110/dsh-code-reference), [open-legal-aid](https://github.com/victorzhong0110/open-legal-aid), [llm-research-os](https://github.com/victorzhong0110/llm-research-os)) live under **Ideas → MVP** on the profile. They are how I ship loops. They are not community identity.
 
 ## What I will not do
 
 - Another greenfield agent demo with a README full of logos.
 - Website-only contributions to a famous foundation project just to put the logo on a resume.
+- Join a 10-PR pile on a stale "good first issue" (Hendrycks `$` extraction, lighteval Count column, etc.).
 
-## Target communities (pick one primary)
+## Where the real demand is (checked 2026-08-29)
 
-Priority is **merged, reviewable PRs in a living codebase**, not star count.
+Living eval repos are full of **grader soundness** bugs: substring `yes`/`no` parsers, judge outages scored as success, pipeline failures marked INCORRECT. That is the same class of defect as da-verify. Many of those tickets already have a PR from the reporter.
 
-1. **Eval / harness / agent runtime** — closest to da-verify and DSH work. Candidates: DeepSeek Harness ecosystem (already inside), LangGraph, a serious eval harness (Inspect, lighteval, or an equivalent that actually reviews PRs).
-2. **Serving / post-training tooling** — vLLM, SGLang, TRL, if I can own a narrow bug with tests.
-3. **Do not start** a second research OS, a second legal-aid app, or a third DSH plugin until one of the above has users besides me.
+Unclaimed maintainer-requested work that is still worth doing:
 
-## Operating cadence
+1. [inspect_evals#2253](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2253) — shorten duplicated Usage blocks in generated eval READMEs.
+2. [inspect_evals#2295](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2295) — repo-wide OpenRouter quantization pinning linter (larger; collaborator wants provider pinning too).
+3. Do **not** pile onto lm-eval#2552 or lighteval#804.
 
-- 1 merged PR in an **other-people’s** repo per month, starting 2026-09, is the minimum community KPI.
-- Issues I open must include a reproduction or a failing test.
-- If a project does not respond in two weeks, switch; do not farm unmerged PR screenshots.
+Operating rule: 1 merged PR in someone else's repo per month, starting 2026-09. If a project does not respond in two weeks, switch.
 
 Calendar: [plan.md](plan.md).
