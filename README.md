@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=22&duration=2000&pause=100000&color=0078D7&center=true&vCenter=true&repeat=false&width=280&height=45&lines=I%27m%20Vic." alt="I'm Vic." />
   <br/>
-  <img src="./assets/ciallo.svg?wave=1" alt="Ciallo～(∠・ω&lt;)⌒★" />
+  <object type="image/svg+xml" data="./assets/ciallo.svg" width="500" height="64">
+    <a href="https://github.com/victorzhong0110/victorzhong0110/blob/main/assets/ciallo-wave.svg">
+      <img src="./assets/ciallo.svg" alt="Ciallo～(∠・ω&lt;)⌒★" />
+    </a>
+  </object>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=14&duration=2500&pause=100000&color=000000&center=true&vCenter=true&repeat=false&width=560&height=28&lines=Agent%20evaluation%20%C2%B7%20harnesses%20%C2%B7%20research%20protocols" alt="Agent evaluation · harnesses · research protocols" />
   <p>
