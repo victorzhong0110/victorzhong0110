@@ -1,6 +1,5 @@
 <div align="center">
-  <p><strong>I'm Vic. Ciallo～(∠・ω&lt;)⌒★</strong></p>
-  <p>Agent evaluation · harnesses · research protocols</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=20&duration=2500&pause=1000&color=0078D7&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=90&lines=I%27m%20Vic.%20Ciallo%EF%BD%9E%28%E2%88%A0%E3%83%BB%CF%89%3C%29%E2%8C%92%E2%98%85;Agent%20evaluation%20%C2%B7%20harnesses%20%C2%B7%20research%20protocols" alt="I'm Vic. Ciallo～(∠・ω&lt;)⌒★" />
   <p>
     <code>Born in 2005 · Zhejiang, China.</code>
     <code>Now based in Shanghai.</code>
@@ -9,7 +8,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="34%">
 
 #### Research
 
@@ -22,15 +21,26 @@
 Verification on data-analysis agents repairs variance, not capability. C1 is a clean null. The active ingredient is sample diversity plus a programmatic grader.
 
 </td>
-<td valign="top" width="48%">
+<td valign="top" width="33%">
 
 #### Open Source
 
 > [Path & targets →](opensource.md)
 
-This column is for **merged work in other people's repos** — eval / harness / agent runtimes that already have users. Personal plugins do not go here.
+Merged work in **other people's** eval / harness / agent runtimes. Personal plugins do not go here.
 
-Nothing merged in that category yet. Next target is a living eval harness (Inspect Evals, lm-eval, EvalScope), not another greenfield demo.
+Nothing merged in that category yet.
+
+</td>
+<td valign="top" width="33%">
+
+#### Now
+
+In-flight only. A result moves left when it is merged or measured.
+
+- **[inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320)** — shorten generated Usage blocks · `in review`
+- Next merged PR in a living eval harness (Inspect / lm-eval / EvalScope)
+- Internships in agent evaluation · Shanghai · 2027
 
 </td>
 </tr>
