@@ -10,50 +10,49 @@
       <stop offset="100%" stop-color="#af52de"/>
     </linearGradient>
   </defs>
-  <rect id="hit" x="0" y="0" width="500" height="64" fill="#ffffff" fill-opacity="0.01" cursor="pointer"/>
-  <text x="124.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">C
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="124.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">C
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.000s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="142.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">i
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.093s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="142.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">i
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.093s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="160.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">a
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.187s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="160.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">a
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.187s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="178.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">l
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.280s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="178.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">l
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.280s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="196.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">l
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.373s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="196.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">l
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.373s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="214.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">o
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.467s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="214.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">o
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.467s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="232.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">&#xFF5E;
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.560s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="232.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">&#xFF5E;
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.560s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="250.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">(
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.653s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="250.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">(
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.653s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="268.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">&#x2220;
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.747s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="268.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">&#x2220;
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.747s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="286.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">&#x30FB;
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.840s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="286.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">&#x30FB;
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.840s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="304.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">&#x03C9;
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+0.933s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="304.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">&#x03C9;
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="0.933s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="322.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">&lt;
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+1.027s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="322.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">&lt;
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="1.027s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="340.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">)
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+1.120s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="340.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">)
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="1.120s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="358.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">&#x2312;
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+1.213s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="358.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">&#x2312;
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="1.213s" repeatCount="1" fill="freeze"/>
   </text>
-  <text x="376.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)" pointer-events="none">&#x2605;
-    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="hit.click+1.307s" repeatCount="1" fill="freeze" restart="always"/>
+  <text x="376.0" y="38" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">&#x2605;
+    <animate attributeName="y" values="38.00;33.00;29.34;28.00;29.34;33.00;38.00;43.00;46.66;48.00;46.66;43.00;38.00" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" dur="1.4s" begin="1.307s" repeatCount="1" fill="freeze"/>
   </text>
 </svg>
