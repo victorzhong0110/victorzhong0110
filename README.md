@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=22&duration=2000&pause=100000&color=0078D7&center=true&vCenter=true&repeat=false&width=280&height=45&lines=I%27m%20Vic." alt="I'm Vic." />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=14&duration=2500&pause=100000&color=000000&center=true&vCenter=true&repeat=false&width=560&height=28&lines=Agent%20evaluation%20%C2%B7%20harnesses%20%C2%B7%20research%20protocols" alt="Agent evaluation · harnesses · research protocols" />
+  <img src="./assets/tagline-light.svg#gh-light-mode-only" alt="Agent evaluation · harnesses · research protocols" />
+  <img src="./assets/tagline-dark.svg#gh-dark-mode-only" alt="Agent evaluation · harnesses · research protocols" />
   <p>
     <code>Born in 2005 · Zhejiang, China.</code>
     <code>Now based in Shanghai.</code>
