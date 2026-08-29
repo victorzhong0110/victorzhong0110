@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=22&duration=2000&pause=100000&color=0078D7&center=true&vCenter=true&repeat=false&width=680&height=45&lines=I%27m%20Vic.%20Ciallo%EF%BD%9E%28%E2%88%A0%E3%83%BB%CF%89%3C%29%E2%8C%92%E2%98%85" alt="I'm Vic. Ciallo～(∠・ω&lt;)⌒★" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=18&duration=2500&pause=100000&color=0078D7&center=true&vCenter=true&repeat=false&width=680&height=40&lines=Agent%20evaluation%20%C2%B7%20harnesses%20%C2%B7%20research%20protocols" alt="Agent evaluation · harnesses · research protocols" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=22&duration=2000&pause=100000&color=0078D7&center=true&vCenter=true&repeat=false&width=280&height=45&lines=I%27m%20Vic." alt="I'm Vic." />
+  <br/>
+  <img src="./assets/ciallo.svg" alt="Ciallo～(∠・ω&lt;)⌒★" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=14&duration=2500&pause=100000&color=000000&center=true&vCenter=true&repeat=false&width=560&height=28&lines=Agent%20evaluation%20%C2%B7%20harnesses%20%C2%B7%20research%20protocols" alt="Agent evaluation · harnesses · research protocols" />
   <p>
     <code>Born in 2005 · Zhejiang, China.</code>
     <code>Now based in Shanghai.</code>

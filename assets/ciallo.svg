@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="56" viewBox="0 0 480 56">
+  <defs>
+    <linearGradient id="r" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2d55">
+        <animate attributeName="stop-color" values="#ff2d55;#ffcc00;#34c759;#007aff;#af52de;#ff2d55" dur="2.4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="35%" stop-color="#ffcc00">
+        <animate attributeName="stop-color" values="#ffcc00;#34c759;#007aff;#af52de;#ff2d55;#ffcc00" dur="2.4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="65%" stop-color="#007aff">
+        <animate attributeName="stop-color" values="#007aff;#af52de;#ff2d55;#ffcc00;#34c759;#007aff" dur="2.4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#af52de">
+        <animate attributeName="stop-color" values="#af52de;#ff2d55;#ffcc00;#34c759;#007aff;#af52de" dur="2.4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <g>
+    <animateTransform attributeName="transform" type="translate" dur="0.65s" repeatCount="indefinite" calcMode="spline" values="0,7; 0,-7; 0,7" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <text x="240" y="32" text-anchor="middle" font-size="24" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="url(#r)">Ciallo&#xFF5E;(&#x2220;&#x30FB;&#x03C9;&lt;)&#x2312;&#x2605;</text>
+  </g>
+</svg>
