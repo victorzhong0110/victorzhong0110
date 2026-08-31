@@ -34,4 +34,6 @@ Unclaimed maintainer-requested work that is still worth doing:
 
 Operating rule: 1 merged PR in someone else's repo per month, starting 2026-09. If a project does not respond in two weeks, switch.
 
+The working queue (55 eval / agent / runtime repos) is [oss-todo.md](oss-todo.md). Check a box only after merge. Start with eval/harness; do not open a second PR while inspect_evals#2320 is in review unless that PR stalls past two weeks.
+
 Calendar: [plan.md](plan.md).

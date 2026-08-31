@@ -28,11 +28,11 @@ Verification on data-analysis agents repairs variance, not capability. C1 is a c
 
 #### Open Source
 
-> [Path & targets →](opensource.md)
+> [Path & targets →](opensource.md) · [Queue →](oss-todo.md)
 
 Merged work in **other people's** eval / harness / agent runtimes. Personal plugins do not go here.
 
-Nothing merged in that category yet.
+Nothing merged in that category yet. Queue: 55 living targets, one PR at a time.
 
 </td>
 <td valign="top" width="33%">
@@ -42,7 +42,7 @@ Nothing merged in that category yet.
 In-flight only. A result moves left when it is merged or measured.
 
 - **[inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320)** — shorten generated Usage blocks · `in review`
-- Next merged PR in a living eval harness (Inspect / lm-eval / EvalScope)
+- Next: [lm-evaluation-harness](oss-todo.md#eval--harness) (first item on the queue)
 - Internships in agent evaluation · Shanghai · 2027
 
 </td>
