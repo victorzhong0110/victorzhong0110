@@ -7,11 +7,6 @@
     <code>Born in 2005 · Zhejiang, China.</code>
     <code>Now based in Shanghai.</code>
   </p>
-  <p>
-    <a href="https://pypi.org/project/skill-evolution"><img src="https://img.shields.io/pypi/v/skill-evolution?style=flat-square&color=0078D7" alt="PyPI: skill-evolution" /></a>
-    <a href="https://github.com/victorzhong0110/dsh-outcome-loop"><img src="https://img.shields.io/badge/tests-151_passing-0078D7?style=flat-square" alt="dsh-outcome-loop: 151 tests passing" /></a>
-    <a href="https://github.com/xinglunxu76-star/awesome-dsh-plugin-deepseek-harness-"><img src="https://img.shields.io/badge/listed-Awesome_DSH-0078D7?style=flat-square" alt="dsh-code-reference: listed in Awesome DSH" /></a>
-  </p>
 </div>
 
 <table>
@@ -60,6 +55,6 @@ I like taking a precise idea to a working loop quickly. These are **not** commun
 
 | Project | What it proves | Status |
 |---|---|---|
-| **[skill-evolution](https://github.com/victorzhong0110/skill-evolution)** | Framework-agnostic CLI: evolve skill docs from successful vs failed trajectories, targeted patches, independent auditor | On PyPI |
+| **[skill-evolution](https://github.com/victorzhong0110/skill-evolution)** | Framework-agnostic CLI: evolve skill docs from successful vs failed trajectories, targeted patches, independent auditor | [![PyPI](https://img.shields.io/pypi/v/skill-evolution?style=flat-square&color=0078D7)](https://pypi.org/project/skill-evolution) |
 | **[open-legal-aid](https://github.com/victorzhong0110/open-legal-aid)** | Local RAG for Chinese legal self-help: citable statutes + Word filings | Rerank helps; query-rewrite ablation negative (25-item eval) |
 | **[llm-research-os](https://github.com/victorzhong0110/llm-research-os)** | Model-agnostic research OS: express a problem, compose blocks, record lineage and AI decisions | M0 static kernel · charter v0.1 · no GPU yet |
