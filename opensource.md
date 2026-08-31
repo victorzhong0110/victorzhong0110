@@ -10,7 +10,7 @@ Merged, reviewable PRs in a **living** LLM / agent codebase (post-training, agen
 
 | Kind | Status |
 |---|---|
-| Merged PR in Inspect / lm-eval / EvalScope / OpenCompass | none yet |
+| Merged PR in a living post-training / agent repo | none yet |
 | In flight | [inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) shortens duplicated Usage blocks ([#2253](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2253)); not in the Open Source column until it merges |
 | Listing in [Awesome DSH Plugin](https://github.com/xinglunxu76-star/awesome-dsh-plugin-deepseek-harness-/commit/18fac16c535225e72e187cdbf4d606bea01e6b2e) | one docs-list commit; too small to headline |
 
@@ -22,16 +22,12 @@ Personal tools ([skill-evolution](https://github.com/victorzhong0110/skill-evolu
 - Website-only contributions to a famous foundation project just to put the logo on a resume.
 - Join a 10-PR pile on a stale "good first issue" (Hendrycks `$` extraction, lighteval Count column, etc.).
 
-## Where the real demand is (checked 2026-08-29)
+## Where the real demand is (checked 2026-08-31)
 
-Living eval repos are full of **grader soundness** bugs: substring `yes`/`no` parsers, judge outages scored as success, pipeline failures marked INCORRECT. That is the same class of defect as da-verify. Many of those tickets already have a PR from the reporter.
+Post-training trainers and agent runtimes that still merge tested diffs: TRL, PEFT, verl, SWIFT, LlamaFactory, Axolotl on the train/adapt side; DSPy, Pydantic AI, smolagents, SWE-agent, LangGraph, MCP Python SDK on the agent side.
 
-Unclaimed maintainer-requested work that is still worth doing:
-
-1. [inspect_evals#2253](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2253) — shorten duplicated Usage blocks in generated eval READMEs.
-2. [inspect_evals#2295](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2295) — repo-wide OpenRouter quantization pinning linter (larger; collaborator wants provider pinning too).
-3. Do **not** pile onto lm-eval#2552 or lighteval#804.
+Finish [inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) because it is already open. Do **not** open lm-eval or another eval-suite PR as the next identity move.
 
 Operating rule: 1 merged PR in someone else's repo per month, starting 2026-09. If a project does not respond in two weeks, switch.
 
-The active queue is 12 repos, eval-heavy (eight harness/eval seats, then DSPy, LiteLLM, Pydantic AI, MCP Python SDK), cut from an 81-repo catalog. Queue and calendar are tracked privately; a box is checked only after merge. Parallel in-flight PRs are allowed.
+The active queue is 12 repos, post-training and agents (six each). Queue and calendar are tracked privately; a box is checked only after merge. Parallel in-flight PRs are allowed.

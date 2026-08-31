@@ -42,7 +42,7 @@ Nothing merged in that category yet. A 12-target queue is running.
 In-flight only. A result moves left when it is merged or measured.
 
 - **[inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320)** — shorten generated Usage blocks · `in review` · <code>2026-08</code>
-- Next: lm-evaluation-harness (first item on the queue) · <code>2026-09</code>
+- Next: huggingface/trl (post-training) · <code>2026-09</code>
 - Internships in LLM / post-training / agents · Shanghai · 2027
 
 </td>
