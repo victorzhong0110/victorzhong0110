@@ -32,7 +32,7 @@ Verification on data-analysis agents repairs variance, not capability. C1 is a c
 
 Merged work in **other people's** eval / harness / agent runtimes. Personal plugins do not go here.
 
-Nothing merged in that category yet. Catalog: 81 targets in [oss-todo.md](oss-todo.md) (not yet a shortlist). One PR at a time after picking.
+Nothing merged in that category yet. Queue: [12 repos](oss-todo.md) (2 per track, 1 per institution). Catalog: [oss-catalog.md](oss-catalog.md).
 
 </td>
 <td valign="top" width="33%">
