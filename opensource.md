@@ -34,6 +34,6 @@ Unclaimed maintainer-requested work that is still worth doing:
 
 Operating rule: 1 merged PR in someone else's repo per month, starting 2026-09. If a project does not respond in two weeks, switch.
 
-The active queue is [oss-todo.md](oss-todo.md): 12 repos, two per track, one per school or institution. The full 81-repo list stays in [oss-catalog.md](oss-catalog.md). Check a box only after merge. Do not open a second PR while inspect_evals#2320 is in review unless that PR stalls past two weeks.
+The active queue is [oss-todo.md](oss-todo.md): 12 repos, eval-heavy (eight harness/eval seats, then DSPy, LiteLLM, Pydantic AI, MCP Python SDK). The full 81-repo list stays in [oss-catalog.md](oss-catalog.md). Check a box only after merge. Do not open a second PR while inspect_evals#2320 is in review unless that PR stalls past two weeks.
 
 Calendar: [plan.md](plan.md).
