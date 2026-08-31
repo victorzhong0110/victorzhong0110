@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=22&duration=2000&pause=100000&color=0078D7&center=true&vCenter=true&repeat=false&width=280&height=45&lines=I%27m%20Vic." alt="I'm Vic." />
   <br/>
-  <img src="./assets/tagline-light.svg#gh-light-mode-only" alt="Agent evaluation · harnesses · research protocols" />
-  <img src="./assets/tagline-dark.svg#gh-dark-mode-only" alt="Agent evaluation · harnesses · research protocols" />
+  <img src="./assets/tagline-light.svg#gh-light-mode-only" alt="LLM research · post-training · agents" />
+  <img src="./assets/tagline-dark.svg#gh-dark-mode-only" alt="LLM research · post-training · agents" />
   <p>
     <code>Born in 2005 · Zhejiang, China.</code>
     <code>Now based in Shanghai.</code>
@@ -30,9 +30,9 @@ Verification on data-analysis agents repairs variance, not capability. C1 is a c
 
 > [Path & targets →](opensource.md)
 
-Merged work in **other people's** eval / harness / agent runtimes. Personal plugins do not go here.
+Merged work in **other people's** LLM / agent codebases. Personal plugins do not go here.
 
-Nothing merged in that category yet; a 12-target, eval-heavy queue is running.
+Nothing merged in that category yet. A 12-target queue is running.
 
 </td>
 <td valign="top" width="33%">
@@ -43,7 +43,7 @@ In-flight only. A result moves left when it is merged or measured.
 
 - **[inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320)** — shorten generated Usage blocks · `in review`
 - Next: lm-evaluation-harness (first item on the queue)
-- Internships in agent evaluation · Shanghai · 2027
+- Internships in LLM / post-training / agents · Shanghai · 2027
 
 </td>
 </tr>

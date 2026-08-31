@@ -4,7 +4,7 @@ This file is the shop-window rule for the **Open Source** column, not a list of 
 
 ## What recruiters should see there
 
-Merged, reviewable PRs in a **living** eval / harness / agent-runtime codebase. Star count on a solo repo does not count. A plugin that only I run does not count.
+Merged, reviewable PRs in a **living** LLM / agent codebase (post-training, agents, runtimes, eval). Star count on a solo repo does not count. A plugin that only I run does not count. Eval harness PRs are a way to get reviewed diffs; they are not a bid for an eval-only job.
 
 ## What exists today (2026-08)
 

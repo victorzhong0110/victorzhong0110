@@ -4,6 +4,6 @@
     <animate attributeName="d" begin="0s" dur="2500ms" fill="freeze" values="m0,14 h0 ; m0,14 h560 ; m0,14 h560" keyTimes="0;0.9;1"/>
   </path>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Cascadia Code, Consolas, monospace" fill="#e6edf3" font-size="14" font-weight="500" dominant-baseline="middle" x="50%" text-anchor="middle">
-    <textPath xlink:href="#path0">Agent evaluation &#x00B7; harnesses &#x00B7; research protocols</textPath>
+    <textPath xlink:href="#path0">LLM research &#x00B7; post-training &#x00B7; agents</textPath>
   </text>
 </svg>
