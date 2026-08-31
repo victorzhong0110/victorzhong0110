@@ -8,7 +8,7 @@ This profile is an evidence index, not a highlight reel. If a number cannot be r
 2. **Nulls are first-class.** C1 self-verification moving accuracy by 0.0% is a result. Hiding it would be the actual failure.
 3. **Artifacts are named.** Rate-limit collapse, partial-answer override, non-reproducible gold — they stay in the write-up.
 4. **M0 is M0.** `llm-research-os` does not train, does not touch real GPUs, and `ready` on a dry-run is not “the experiment worked.”
-5. **Internships are not invented.** This account has no ByteDance / Bilibili / Apache committer line. That gap is in [plan.md](plan.md), not papered over.
+5. **Internships are not invented.** This account has no ByteDance / Bilibili / Apache committer line. That gap is acknowledged, not papered over.
 
 ## What is independently checkable
 
