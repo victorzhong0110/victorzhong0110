@@ -4,7 +4,8 @@
   <img src="./assets/tagline-light.svg#gh-light-mode-only" alt="Agent evaluation · harnesses · research protocols" />
   <img src="./assets/tagline-dark.svg#gh-dark-mode-only" alt="Agent evaluation · harnesses · research protocols" />
   <p>
-    <code>Based in Shanghai.</code>
+    <code>Born in 2005 · Zhejiang, China.</code>
+    <code>Now based in Shanghai.</code>
   </p>
 </div>
 
