@@ -48,7 +48,7 @@ One merged PR. Next in the 12-target queue: huggingface/trl.
 
 In-flight only. A result moves left when it is merged or measured.
 
-- **Focus: [llm-research-os](https://github.com/victorzhong0110/llm-research-os)** — research control plane · M0 kernel · next: first bounded run with event log · <code>2026-09</code>
+- **Focus: [llm-research-os](https://github.com/victorzhong0110/llm-research-os)** — research control plane · M0 kernel proof closed 2026-09-03 ([ADR-0037](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0037-m0-kernel-proof-closure.md)) · M1: mock proposal → dissent → decision → simulated run, ¥0, no GPU · <code>2026-09</code>
 - **[peft#3647](https://github.com/huggingface/peft/pull/3647)** — empty `base_model_name_or_path` on save · `open` · <code>2026-09</code>
 - **[pydantic-ai#8012](https://github.com/pydantic/pydantic-ai/pull/8012)** — TestModel datetime / UUID / URI · `open` · <code>2026-09</code>
 - **[inspect_evals#2324](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2324)** — register da-verify · logs uploaded, awaiting maintainer · <code>2026-08</code>
@@ -68,4 +68,4 @@ I like taking a precise idea to a working loop quickly. These are **not** commun
 |---|---|---|
 | **[skill-evolution](https://github.com/victorzhong0110/skill-evolution)** | Framework-agnostic CLI: evolve skill docs from successful vs failed trajectories, targeted patches, independent auditor | [![PyPI](https://img.shields.io/pypi/v/skill-evolution?style=flat-square&color=0078D7)](https://pypi.org/project/skill-evolution) |
 | **[open-legal-aid](https://github.com/victorzhong0110/open-legal-aid)** | Local RAG for Chinese legal self-help: citable statutes + Word filings | Rerank helps; query-rewrite ablation negative (25-item eval) |
-| **[llm-research-os](https://github.com/victorzhong0110/llm-research-os)** | Model-agnostic research OS: express a problem, compose blocks, record lineage and AI decisions | M0 static kernel · charter v0.1 · no GPU yet |
+| **[llm-research-os](https://github.com/victorzhong0110/llm-research-os)** | Model-agnostic research OS: express a problem, compose blocks, record lineage and AI decisions | M0 kernel proof closed ([ADR-0037](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0037-m0-kernel-proof-closure.md)) · 755 tests, 17 versioned schemas · M1 in flight · no GPU yet |
