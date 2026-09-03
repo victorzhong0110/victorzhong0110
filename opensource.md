@@ -26,7 +26,7 @@ Personal tools ([skill-evolution](https://github.com/victorzhong0110/skill-evolu
 
 Post-training trainers and agent runtimes that still merge tested diffs: TRL, PEFT, verl, SWIFT, LlamaFactory, Axolotl on the train/adapt side; DSPy, Pydantic AI, smolagents, SWE-agent, LangGraph, MCP Python SDK on the agent side.
 
-[inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) merged 2026-09-01. September's remaining identity move is huggingface/trl, not another eval suite. Do **not** open lm-eval as the next PR.
+[inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) merged 2026-09-01. September in-flight is peft + pydantic-ai + the da-verify register. huggingface/trl is next after those land. Do **not** open lm-eval as the next PR.
 
 Operating rule: 1 merged PR in someone else's repo per month, starting 2026-09. If a project does not respond in two weeks, switch.
 
