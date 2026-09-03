@@ -6,12 +6,12 @@ This file is the shop-window rule for the **Open Source** column, not a list of 
 
 Merged, reviewable PRs in a **living** LLM / agent codebase (post-training, agents, runtimes, eval). Star count on a solo repo does not count. A plugin that only I run does not count. Eval harness PRs are a way to get reviewed diffs; they are not a bid for an eval-only job.
 
-## What exists today (2026-08)
+## What exists today (2026-09-03)
 
 | Kind | Status |
 |---|---|
-| Merged PR in a living post-training / agent repo | none yet |
-| In flight | [inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) shortens duplicated Usage blocks ([#2253](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2253)); not in the Open Source column until it merges |
+| Merged PR in a living LLM / agent repo | [inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) merged 2026-09-01. Docs/tooling (Usage dedup, closes [#2253](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2253)). Counts as a reviewed diff, not an eval-only bid. |
+| In flight | none in someone else's repo. Next: huggingface/trl. |
 | Listing in [Awesome DSH Plugin](https://github.com/xinglunxu76-star/awesome-dsh-plugin-deepseek-harness-/commit/18fac16c535225e72e187cdbf4d606bea01e6b2e) | one docs-list commit; too small to headline |
 
 Personal tools ([skill-evolution](https://github.com/victorzhong0110/skill-evolution), [dsh-outcome-loop](https://github.com/victorzhong0110/dsh-outcome-loop), [dsh-code-reference](https://github.com/victorzhong0110/dsh-code-reference), [open-legal-aid](https://github.com/victorzhong0110/open-legal-aid), [llm-research-os](https://github.com/victorzhong0110/llm-research-os)) live under **Ideas → MVP** on the profile. They are how I ship loops. They are not community identity.
@@ -26,7 +26,7 @@ Personal tools ([skill-evolution](https://github.com/victorzhong0110/skill-evolu
 
 Post-training trainers and agent runtimes that still merge tested diffs: TRL, PEFT, verl, SWIFT, LlamaFactory, Axolotl on the train/adapt side; DSPy, Pydantic AI, smolagents, SWE-agent, LangGraph, MCP Python SDK on the agent side.
 
-Finish [inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) because it is already open. Do **not** open lm-eval or another eval-suite PR as the next identity move.
+[inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) merged 2026-09-01. September's remaining identity move is huggingface/trl, not another eval suite. Do **not** open lm-eval as the next PR.
 
 Operating rule: 1 merged PR in someone else's repo per month, starting 2026-09. If a project does not respond in two weeks, switch.
 

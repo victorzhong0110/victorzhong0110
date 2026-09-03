@@ -32,7 +32,11 @@ Verification on data-analysis agents repairs variance, not capability. C1 is a c
 
 Merged work in **other people's** LLM / agent codebases. Personal plugins do not go here.
 
-Nothing merged in that category yet. A 12-target queue is running.
+<p>
+<strong><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320">inspect_evals#2320</a></strong> -- <code>docs · Usage dedup</code> -- <code>merged 2026-09-01</code>
+</p>
+
+One merged PR. Next in the 12-target queue: huggingface/trl.
 
 </td>
 <td valign="top" width="33%">
@@ -42,7 +46,6 @@ Nothing merged in that category yet. A 12-target queue is running.
 In-flight only. A result moves left when it is merged or measured.
 
 - **Focus: [llm-research-os](https://github.com/victorzhong0110/llm-research-os)** — research control plane · M0 kernel · next: first bounded run with event log · <code>2026-09</code>
-- **[inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320)** — shorten generated Usage blocks · `in review` · <code>2026-08</code>
 - Next: huggingface/trl (post-training) · <code>2026-09</code>
 - Internships in LLM / post-training / agents · Shanghai · 2027
 
