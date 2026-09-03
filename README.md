@@ -7,6 +7,9 @@
     <code>Born in 2005 · Zhejiang, China.</code>
     <code>Now based in Shanghai.</code>
   </p>
+  <p>
+    Hugging Face: <a href="https://huggingface.co/victorzhong">victorzhong</a>
+  </p>
 </div>
 
 <table>
