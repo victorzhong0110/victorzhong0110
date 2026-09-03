@@ -11,7 +11,7 @@ Merged, reviewable PRs in a **living** LLM / agent codebase (post-training, agen
 | Kind | Status |
 |---|---|
 | Merged PR in a living LLM / agent repo | [inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) merged 2026-09-01. Docs/tooling (Usage dedup, closes [#2253](https://github.com/UKGovernmentBEIS/inspect_evals/issues/2253)). Counts as a reviewed diff, not an eval-only bid. |
-| In flight | none in someone else's repo. Next: huggingface/trl. |
+| In flight | [peft#3647](https://github.com/huggingface/peft/pull/3647) (post-training, empty adapter path). [pydantic-ai#8012](https://github.com/pydantic/pydantic-ai/pull/8012) (agents, TestModel formats). [inspect_evals#2324](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2324) (register da-verify; C0 logs uploaded 2026-08-30, awaiting maintainer). huggingface/trl stays next in the queue, not a fourth parallel PR this week. |
 | Listing in [Awesome DSH Plugin](https://github.com/xinglunxu76-star/awesome-dsh-plugin-deepseek-harness-/commit/18fac16c535225e72e187cdbf4d606bea01e6b2e) | one docs-list commit; too small to headline |
 
 Personal tools ([skill-evolution](https://github.com/victorzhong0110/skill-evolution), [dsh-outcome-loop](https://github.com/victorzhong0110/dsh-outcome-loop), [dsh-code-reference](https://github.com/victorzhong0110/dsh-code-reference), [open-legal-aid](https://github.com/victorzhong0110/open-legal-aid), [llm-research-os](https://github.com/victorzhong0110/llm-research-os)) live under **Ideas → MVP** on the profile. They are how I ship loops. They are not community identity.

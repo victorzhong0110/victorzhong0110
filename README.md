@@ -46,7 +46,9 @@ One merged PR. Next in the 12-target queue: huggingface/trl.
 In-flight only. A result moves left when it is merged or measured.
 
 - **Focus: [llm-research-os](https://github.com/victorzhong0110/llm-research-os)** — research control plane · M0 kernel · next: first bounded run with event log · <code>2026-09</code>
-- Next: huggingface/trl (post-training) · <code>2026-09</code>
+- **[peft#3647](https://github.com/huggingface/peft/pull/3647)** — empty `base_model_name_or_path` on save · `open` · <code>2026-09</code>
+- **[pydantic-ai#8012](https://github.com/pydantic/pydantic-ai/pull/8012)** — TestModel datetime / UUID / URI · `open` · <code>2026-09</code>
+- **[inspect_evals#2324](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2324)** — register da-verify · logs uploaded, awaiting maintainer · <code>2026-08</code>
 - Internships in LLM / post-training / agents · Shanghai · 2027
 
 </td>
