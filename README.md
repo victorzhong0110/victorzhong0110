@@ -42,7 +42,7 @@ Merged work in **other people's** LLM / agent codebases. Personal plugins do not
 <strong><a href="https://github.com/huggingface/peft/pull/3647">peft#3647</a></strong> -- <code>empty adapter path on save</code> -- <code>merged 2026-09-04</code>
 </p>
 
-Two merged PRs. Next in the 12-target queue: huggingface/trl.
+Two merged PRs. Next: pytorch/pytorch, then huggingface/trl.
 
 </td>
 <td valign="top" width="33%">
