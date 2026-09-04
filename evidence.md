@@ -19,7 +19,8 @@ This profile is an evidence index, not a highlight reel. If a number cannot be r
 | dsh-code-reference tests / policy / threat model | repo CI, `SECURITY.md`, 84 node:test cases |
 | dsh-outcome-loop verification axes | `ARCHITECTURE.md`, 151 tests, coverage thresholds in CI |
 | llm-research-os M0 scope | `docs/charter-v0.1.md`, threat model, schemas |
-| Awesome DSH listing | [PR to awesome-dsh-plugin](https://github.com/xinglunxu76-star/awesome-dsh-plugin-deepseek-harness-/commit/18fac16c535225e72e187cdbf4d606bea01e6b2e) |
+| inspect_evals#2320 merged | [UKGovernmentBEIS/inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) |
+| peft#3647 merged | [huggingface/peft#3647](https://github.com/huggingface/peft/pull/3647) |
 
 ## What is not a claim yet
 
