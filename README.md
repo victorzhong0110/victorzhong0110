@@ -38,8 +38,11 @@ Merged work in **other people's** LLM / agent codebases. Personal plugins do not
 <p>
 <strong><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320">inspect_evals#2320</a></strong> -- <code>docs · Usage dedup</code> -- <code>merged 2026-09-01</code>
 </p>
+<p>
+<strong><a href="https://github.com/huggingface/peft/pull/3647">peft#3647</a></strong> -- <code>empty adapter path on save</code> -- <code>merged 2026-09-04</code>
+</p>
 
-One merged PR. Next in the 12-target queue: huggingface/trl.
+Two merged PRs. Next in the 12-target queue: huggingface/trl.
 
 </td>
 <td valign="top" width="33%">
@@ -49,7 +52,6 @@ One merged PR. Next in the 12-target queue: huggingface/trl.
 In-flight only. A result moves left when it is merged or measured.
 
 - **Focus: [llm-research-os](https://github.com/victorzhong0110/llm-research-os)** — research control plane · M0 kernel proof closed 2026-09-03 ([ADR-0037](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0037-m0-kernel-proof-closure.md)) · M1: mock proposal → dissent → decision → simulated run, ¥0, no GPU · <code>2026-09</code>
-- **[peft#3647](https://github.com/huggingface/peft/pull/3647)** — empty `base_model_name_or_path` on save · `open` · <code>2026-09</code>
 - **[pydantic-ai#8012](https://github.com/pydantic/pydantic-ai/pull/8012)** — TestModel datetime / UUID / URI · `open` · <code>2026-09</code>
 - **[inspect_evals#2324](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2324)** — register da-verify · logs uploaded, awaiting maintainer · <code>2026-08</code>
 - Internships in LLM / post-training / agents · Shanghai · 2027
