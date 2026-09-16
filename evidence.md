@@ -7,7 +7,7 @@ This profile is an evidence index, not a highlight reel. If a number cannot be r
 1. **Product is the measurement.** A demo without a grader, a null, or a dispute log is a toy. Those stay in Ideas → MVP, not in the Open Source column.
 2. **Nulls are first-class.** C1 self-verification moving accuracy by 0.0% is a result. Hiding it would be the actual failure.
 3. **Artifacts are named.** Rate-limit collapse, partial-answer override, non-reproducible gold — they stay in the write-up.
-4. **M0 is M0.** `llm-research-os` does not train, does not touch real GPUs, and `ready` on a dry-run is not “the experiment worked.”
+4. **Laptop CUDA is not a cloud claim.** `llm-research-os` M2 local/two-host is accepted: WSL2 CUDA 20-step LoRA and checkpoint-10→12 restore on an RTX 4060 laptop. Paid cloud was not run. `ready` on a dry-run is still not “the experiment worked.” Public MVP is not released.
 5. **Internships are not invented.** This account has no ByteDance / Bilibili / Apache committer line. That gap is acknowledged, not papered over.
 
 ## What is independently checkable
@@ -16,9 +16,9 @@ This profile is an evidence index, not a highlight reel. If a number cannot be r
 |---|---|
 | da-verify C0/C1/C2/C3 numbers | [`da-verify` README + `report/report.md`](https://github.com/victorzhong0110/da-verify) |
 | skill-evolution on PyPI | [pypi.org/project/skill-evolution](https://pypi.org/project/skill-evolution) |
-| dsh-code-reference tests / policy / threat model | repo CI, `SECURITY.md`, 84 node:test cases |
+| dsh-code-reference tests / policy / threat model | repo CI, `SECURITY.md`, README: 67 `node:test` cases |
 | dsh-outcome-loop verification axes | `ARCHITECTURE.md`, 151 tests, coverage thresholds in CI |
-| llm-research-os M0 scope | `docs/charter-v0.1.md`, threat model, schemas |
+| llm-research-os M2 local/two-host (not cloud, not public MVP) | origin README status table, [ADR-0062](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0062-m1-m2-acceptance-and-m3-boundary.md), [m2-wsl2-cuda-live](https://github.com/victorzhong0110/llm-research-os/tree/main/docs/evidence/m2-wsl2-cuda-live) |
 | inspect_evals#2320 merged | [UKGovernmentBEIS/inspect_evals#2320](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320) |
 | peft#3647 merged | [huggingface/peft#3647](https://github.com/huggingface/peft/pull/3647) |
 
