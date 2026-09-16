@@ -51,7 +51,7 @@ Two merged PRs. In flight includes pytorch/pytorch. Then huggingface/trl.
 
 In-flight only. A result moves left when it is merged or measured.
 
-- **Focus: [llm-research-os](https://github.com/victorzhong0110/llm-research-os)** — research control plane · M0 kernel proof closed 2026-09-03 ([ADR-0037](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0037-m0-kernel-proof-closure.md)) · M1 not delivering code yet · next: mock proposal → dissent → decision → simulated run, ¥0, no GPU · <code>2026-09</code>
+- **Focus: [llm-research-os](https://github.com/victorzhong0110/llm-research-os)** — research control plane · M0 closed · M1 offline checkpoint accepted · M2 local/two-host accepted ([ADR-0062](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0062-m1-m2-acceptance-and-m3-boundary.md)) · WSL2 CUDA 20-step LoRA + checkpoint-10→12 restore on an RTX 4060 laptop · paid cloud not run · Public MVP not released · <code>2026-09</code>
 - **[pytorch#196017](https://github.com/pytorch/pytorch/pull/196017)** — prune.remove parameter order · `in review` · Individual CLA signed · <code>2026-09</code>
 - **[pydantic-ai#8012](https://github.com/pydantic/pydantic-ai/pull/8012)** — TestModel datetime / UUID / URI · `open` · <code>2026-09</code>
 - **[inspect_evals#2324](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2324)** — register da-verify · logs uploaded, awaiting maintainer · <code>2026-08</code>
@@ -71,4 +71,4 @@ I like taking a precise idea to a working loop quickly. These are **not** commun
 |---|---|---|
 | **[skill-evolution](https://github.com/victorzhong0110/skill-evolution)** | Framework-agnostic CLI: evolve skill docs from successful vs failed trajectories, targeted patches, independent auditor | [![PyPI](https://img.shields.io/pypi/v/skill-evolution?style=flat-square&color=0078D7)](https://pypi.org/project/skill-evolution) |
 | **[open-legal-aid](https://github.com/victorzhong0110/open-legal-aid)** | Local RAG for Chinese legal self-help: citable statutes + Word filings | Rerank helps; query-rewrite ablation negative (25-item eval) |
-| **[llm-research-os](https://github.com/victorzhong0110/llm-research-os)** | Model-agnostic research OS: express a problem, compose blocks, record lineage and AI decisions | M0 kernel proof closed ([ADR-0037](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0037-m0-kernel-proof-closure.md)) · 755 tests, 17 versioned schemas · M1 next, no code yet · no GPU yet |
+| **[llm-research-os](https://github.com/victorzhong0110/llm-research-os)** | Model-agnostic research OS: express a problem, compose blocks, record lineage and AI decisions | M0 closed · M2 local/two-host accepted ([ADR-0062](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0062-m1-m2-acceptance-and-m3-boundary.md)) · laptop CUDA live · paid cloud not run · Public MVP not released |
