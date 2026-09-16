@@ -21,15 +21,15 @@ Repo: [victorzhong0110/da-verify](https://github.com/victorzhong0110/da-verify)
 
 Lineage: upgrades the eval harness from [ArkNarrator](https://github.com/victorzhong0110/ark-narrator) (Qwen2.5-7B / Qwen3-8B LoRA, DeepSeek V4 Pro judge, attribution / contradiction / pairwise). ArkNarrator is the ancestor, not the flagship.
 
-## 2. llm-research-os — independent research IR, M0 only
+## 2. llm-research-os — independent research IR
 
 Repo: [victorzhong0110/llm-research-os](https://github.com/victorzhong0110/llm-research-os)
 
 A model-agnostic, backend-agnostic research OS: express a problem, compose blocks, let an AI propose and object, execute on local or remote workers, record training / eval / cost / lineage / AI decisions.
 
-**Current honest status.** Charter v0.1 accepted. M0 = ResearchSpec protocol, versioned JSON Schema, validator, CloudEvents-compatible `ResearchEvent`, static dry-run kernel. It does **not** import block entry points, does **not** run training, and does **not** spend GPU. `ready` means the spec and static plan are complete — not that science happened.
+**Current honest status.** M0 kernel closed. M1 offline checkpoint accepted. M2 local/two-host accepted ([ADR-0062](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0062-m1-m2-acceptance-and-m3-boundary.md)): WSL2 CUDA 20-step LoRA and checkpoint-10→12 restore on an RTX 4060 laptop, with an EventStore. Paid cloud was not run. Public MVP is not released. `ready` on a dry-run is still not “the experiment worked.” This is not a CUDA/ROCm expertise claim.
 
-This is the long-horizon original work. It is not a 2026 autumn-recruit resume bullet until a worker actually runs a bounded experiment with an event log.
+This is the long-horizon original work. The laptop Worker receipt exists; it is not a cloud product.
 
 ## 3. Adjacent measurement work (not headline)
 

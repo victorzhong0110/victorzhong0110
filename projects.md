@@ -38,7 +38,7 @@ Listed in Awesome DSH Plugin. Status: reliable beta, not GA.
 
 ### llm-research-os
 
-**Current focus (2026-09).** M0 protocol kernel. See [research.md](research.md). Do not describe this as a training platform yet. Long-horizon arc, including governed parameter evolution: [ideas.md](ideas.md).
+**Current focus (2026-09).** M2 local/two-host accepted; laptop CUDA live; paid cloud not run; Public MVP not released. See [research.md](research.md). Do not describe this as a cloud training product. Long-horizon arc, including governed parameter evolution: [ideas.md](ideas.md).
 
 ## D. Applied systems (evidence exists, not the career headline)
 
