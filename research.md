@@ -27,7 +27,7 @@ Repo: [victorzhong0110/llm-research-os](https://github.com/victorzhong0110/llm-r
 
 A model-agnostic, backend-agnostic research OS: express a problem, compose blocks, let an AI propose and object, execute on local or remote workers, record training / eval / cost / lineage / AI decisions.
 
-**Current honest status.** M0 kernel closed. M1 offline checkpoint accepted. M2 local/two-host accepted ([ADR-0062](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0062-m1-m2-acceptance-and-m3-boundary.md)): WSL2 CUDA 20-step LoRA and checkpoint-10→12 restore on an RTX 4060 laptop, with an EventStore. Paid cloud was not run. Public MVP is not released. `ready` on a dry-run is still not “the experiment worked.” This is not a CUDA/ROCm expertise claim.
+**Current honest status.** M0 kernel closed. M1 offline checkpoint accepted. M2 local/two-host accepted ([ADR-0062](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0062-m1-m2-acceptance-and-m3-boundary.md)): WSL2 CUDA 20-step LoRA and checkpoint-10→12 restore on an RTX 4060 laptop, with an EventStore. M3 is in progress: R01–R03 have scoped acceptance; [R04](https://github.com/victorzhong0110/llm-research-os/pull/111) merged 2026-09-28 as verifiable runtime preparation, and launch is still refused. Paid cloud was not run. Public MVP is not released. `ready` on a dry-run is still not “the experiment worked.” This is not a CUDA/ROCm expertise claim.
 
 This is the long-horizon original work. The laptop Worker receipt exists; it is not a cloud product.
 
