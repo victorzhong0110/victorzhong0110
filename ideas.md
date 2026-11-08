@@ -14,6 +14,18 @@ Raw theses before they become repos. Nothing here is measured. Each entry states
 
 **Full proposal.** [Kaggle champions vs autonomous ML research agents: workflows, problem discovery and benchmark design](ideas/2026-11-08-kaggle-research-agents-and-problem-discovery.md).
 
+## 2026-11-08 · Adversarial, self-revising scientific agents — challenging the problem frame itself
+
+**Observation.** LLM agents can optimize within a given hypothesis space while failing to challenge the space itself. Pro/con debate can strengthen shared biases; shared context may turn historical interpretations into unchallenged facts.
+
+**Thesis.** Evidence-grounded falsification, independent reframing, and controlled meta-research may improve the ability to discover missing mechanisms and revise the research process itself. Fix the evidence protocol, not the roster of agents.
+
+**Constraint that decides the design.** A system must not declare its own framework improved by rewriting its judge or reusing evaluation data. Keep raw evidence, competing interpretations, and task-specific context separate; test role structure and memory policy as variables. Compare against a strong single-agent baseline at matched experimental and compute cost.
+
+**What would change my mind.** If independent holdouts show no improvement in discovering new causal/structural explanations, if multi-agent cost exceeds gains, or if alternative context policies do not reduce fixation, simplify or discard the architecture.
+
+**Full research note:** [Adversarial self-revising scientific agents — fixation, falsification, memory, metaresearch](ideas/2026-11-08-adversarial-self-revising-science-agents.md).
+
 ## 2026-09-02 · Governed parameter evolution — an agent that cannot update its weights cannot correct itself
 
 **Observation.** Harnesses and instruction files (AGENTS.md, skills, memory) edit the *context*, not the model. Whatever is corrected in conversation evaporates at session end. The model also has no provenance over its own knowledge: it cannot tell when a concept entered its parameters, so it cannot locate the part to revise. It treats the factory distribution as the prior of truth. In agents this reads as rigidity — it can accept your logic mid-conversation and still act from its training-set bias.
