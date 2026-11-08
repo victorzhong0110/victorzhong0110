@@ -2,6 +2,18 @@
 
 Raw theses before they become repos. Nothing here is measured. Each entry states what I believe, why, and what would change my mind. When an idea gets a working loop it moves to **Ideas → MVP** on the profile; when it gets a controlled result it moves to [research.md](research.md).
 
+## 2026-11-08 · Kaggle 冠军工作流与自主问题发现型 ML Research Agent
+
+**Observation.** 现有 MLE Agent 已能进行代码搜索、训练评估、迭代和部分自动特征工程，但高分不代表独立发现了数据生成机制、隐藏实体、恰当的验证体系或值得重构的中间任务。
+
+**Thesis.** 在方案/代码实验图之外，显式维护“观察 → 竞争解释 → 鉴别实验 → 证据 → 问题重构”的假设证据图，可能让 AI 研究系统更接近顶尖 Kaggle 选手的研究能力，而不仅是更快地搜索模型。
+
+**Test.** 在相同 LLM、工具和算力预算下，对比单 Agent、实验树、经验记忆、假设证据图、独立反证角色及元研究机制；用历史冠军案例加未公开的合成隐藏机制任务，分别评价最终成绩、发现质量、泄漏控制和发现成本。历史题目必须控制公开方案污染。
+
+**What would change my mind.** 如果结构化解释层与反证机制在盲法实验中不能提升独立发现率，或其开销超过收益，则保留可执行实验/评测基础设施，删除额外多 Agent 与假设图复杂度。
+
+**Full proposal.** [Kaggle champions vs autonomous ML research agents: workflows, problem discovery and benchmark design](ideas/2026-11-08-kaggle-research-agents-and-problem-discovery.md).
+
 ## 2026-09-02 · Governed parameter evolution — an agent that cannot update its weights cannot correct itself
 
 **Observation.** Harnesses and instruction files (AGENTS.md, skills, memory) edit the *context*, not the model. Whatever is corrected in conversation evaporates at session end. The model also has no provenance over its own knowledge: it cannot tell when a concept entered its parameters, so it cannot locate the part to revise. It treats the factory distribution as the prior of truth. In agents this reads as rigidity — it can accept your logic mid-conversation and still act from its training-set bias.
