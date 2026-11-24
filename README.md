@@ -36,13 +36,17 @@ Verification on data-analysis agents repairs variance, not capability. C1 is a c
 Merged work in **other people's** LLM / agent codebases. Personal plugins do not go here.
 
 <p>
+<strong>Open Notebook</strong> · <a href="https://github.com/lfnovo/open-notebook/pull/1464">#1464</a> duplicate podcast profile names return HTTP 409 · <a href="https://github.com/lfnovo/open-notebook/pull/1463">#1463</a> malformed notebook IDs return HTTP 400 · <code>both merged 2026-11-13</code>
+</p>
+
+<p>
 <strong><a href="https://github.com/UKGovernmentBEIS/inspect_evals/pull/2320">inspect_evals#2320</a></strong> -- <code>docs · Usage dedup</code> -- <code>merged 2026-09-01</code>
 </p>
 <p>
 <strong><a href="https://github.com/huggingface/peft/pull/3647">peft#3647</a></strong> -- <code>empty adapter path on save</code> -- <code>merged 2026-09-04</code>
 </p>
 
-Two merged PRs. In flight includes pytorch/pytorch. New Hugging Face first cuts paused 2026-09-06.
+Four merged PRs across three upstream projects. New Hugging Face first cuts paused 2026-09-06.
 
 </td>
 <td valign="top" width="33%">
@@ -52,9 +56,7 @@ Two merged PRs. In flight includes pytorch/pytorch. New Hugging Face first cuts 
 In-flight only. A result moves left when it is merged or measured.
 
 - **Focus: [llm-research-os](https://github.com/victorzhong0110/llm-research-os)** — research control plane · M2 local/two-host accepted ([ADR-0062](https://github.com/victorzhong0110/llm-research-os/blob/main/docs/adr/0062-m1-m2-acceptance-and-m3-boundary.md)) · laptop CUDA 20-step LoRA + checkpoint-10→12 restore · paid cloud not run · M3 in progress: R01–R03 accepted, [R04](https://github.com/victorzhong0110/llm-research-os/pull/111) merged 2026-09-28 (runtime prep; launch still refused) · Public MVP not released · <code>2026-09</code>
-- **[pytorch#196017](https://github.com/pytorch/pytorch/pull/196017)** — prune.remove parameter order · `in review` · Individual CLA signed · <code>2026-09</code>
 - **[pydantic-ai#8012](https://github.com/pydantic/pydantic-ai/pull/8012)** — TestModel datetime / UUID / URI · `open` · <code>2026-09</code>
-- **[inspect_evals#2324](https://github.com/UKGovernmentBEIS/inspect_evals/pull/2324)** — register da-verify · logs uploaded, awaiting maintainer · <code>2026-08</code>
 - Internships in LLM / post-training / agents · Shanghai · 2027
 
 </td>
